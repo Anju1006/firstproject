@@ -1,2 +1,2 @@
 # firstproject
-About the git and github
+About the git and github ,learning.
